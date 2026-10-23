@@ -1,44 +1,87 @@
-# Tanjir Alam — Data Science Portfolio
+# Tanjir Alam | Data Science Portfolio
 
-A responsive static portfolio website built with HTML, CSS, and JavaScript. It is designed around a Data Science / Machine Learning / MLOps profile.
+Welcome to my personal portfolio website! I built this project to showcase my skills, projects, and learning journey in Data Science, Machine Learning, and MLOps.
 
-## Run locally
+The website is built using HTML, CSS, and JavaScript, with a responsive design that works across different screen sizes.
 
-1. Extract the ZIP file.
-2. Open the `index.html` file in your browser.
+## About This Project
 
-For a local development server, open a terminal in this folder and run:
+I created this portfolio to present my technical skills, highlight my Data Science and Machine Learning projects, and make it easier for recruiters and other professionals to explore my work.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Run Locally
+
+To run this project on your local machine:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/portfolio.git
+   ```
+
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+
+Alternatively, run a local development server from the project folder:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then visit `http://localhost:8000`.
+Then open `http://localhost:8000` in your browser.
 
-## Before publishing — important edits
+## Portfolio Sections
 
-Open `index.html` and replace:
-- `YOUR_EMAIL@example.com` with your professional email.
-- The GitHub and LinkedIn links with your actual profile URLs.
-- Project links marked `LINKS TO ADD` with real repository/demo URLs.
-- Project descriptions and skill list to match the work you can confidently explain.
+- About Me
+- Technical Skills
+- Projects
+- Contact Information
+- GitHub and LinkedIn Profiles
 
-The current project cards are portfolio descriptions, not claims of independently verified live deployments or measured model performance. Add metrics only after checking your own evaluation results.
+## Before Publishing
 
-## Deploy
+Before making the website public, I will update the following details:
 
-### GitHub Pages
-1. Create a GitHub repository, for example `tanjir-portfolio`.
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Choose deployment from the `main` branch and the root folder.
-5. Save and open the generated public URL.
+- Add my professional email address.
+- Add my actual GitHub and LinkedIn profile links.
+- Link my project cards to the correct repositories or live demos.
+- Review the project descriptions and technical skills to ensure they accurately represent my work.
 
-You can also deploy this static website using Netlify or Vercel.
+## Deployment
 
-## Files
+I plan to deploy this static website using **GitHub Pages**.
 
-- `index.html` — page content and sections
-- `style.css` — responsive design and styling
-- `script.js` — mobile navigation interaction
-- `README.md` — setup and deployment notes
+Steps:
+
+1. Push the website files to the `main` branch.
+2. Open the repository's **Settings → Pages**.
+3. Select deployment from the `main` branch and the root folder.
+4. Save the settings and open the published website URL once deployment is complete.
+
+## Project Structure
+
+```text
+portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## Author
+
+**Tanjir Alam**
+
+Aspiring Data Scientist | Machine Learning | MLOps
+
+- GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
+---
+
+This portfolio is a work in progress. I will continue improving it as I build new projects and develop my technical skills.
